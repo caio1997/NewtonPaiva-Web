@@ -1,0 +1,153 @@
+.imageTop {
+    height: 200px;
+    width: 100%;
+}
+
+.imageSelfie {
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+#textSobre {
+  margin-left: 40px;
+  font-family: Florence, cursive;
+}
+
+#sobre {
+  margin-left: 40px;
+  font-family: Florence, cursive;
+  font-size: 28px;
+}
+
+.info_one {
+  margin-left: 50px;
+  color: #3697D6;
+  font-family: Florence, cursive;
+  font-size: 14px;
+}
+
+.info_two {
+  margin-left: 5px;
+  font-family: Florence, cursive;
+  font-size: 14px;
+}
+
+#meusTrabalhos {
+  margin-left: 30px;
+  margin-top: 60px;
+  font-family: Florence, cursive;
+  font-size: 28px;
+}
+
+.imagee-commerce {
+  height: 150px;
+  width: 150px;
+  margin-left: 30px;
+}
+
+.e-commerce {
+  margin-left: 45px;
+  font-family: Florence, cursive;
+  font-size: 25px;
+}
+
+.imageredacao {
+  height: 150px;
+  width: 160px;
+  margin-left: 30px;
+}
+
+.redacao {
+  margin-left: 40px;
+  font-family: Florence, cursive;
+  font-size: 25px;
+}
+
+.imageweb {
+  height: 150px;
+  width: 160px;
+  margin-left: 30px;
+}
+
+.web {
+  margin-left: 40px;
+  font-family: Florence, cursive;
+  font-size: 25px;
+}
+
+.imageGestao {
+  height: 150px;
+  width: 150px;
+  margin-left: 30px;
+}
+
+.gestao {
+  margin-left: 52px;
+  font-family: Florence, cursive;
+  font-size: 25px;
+}
+
+#contato{ 
+  margin-left: 30px;
+  margin-top: 60px;
+  font-family: Florence, cursive;
+  font-size: 28px;
+}
+
+#email {
+  width:300px;
+  margin-left: 30px;
+  height: 20px;
+}
+
+#nome {
+  width:300px;
+  margin-left: 5px;
+  height: 20px;
+}
+#assunto {
+  width:618px;
+  margin-left: 30px;
+  height: 20px;
+}
+
+#mensagem {
+  width:618px;
+  height: 120px;
+  margin-left: 30px;
+}
+
+.imageRobot {
+    margin-top: 20px;
+    margin-left: 22px;
+    height: 85px;
+    width: 260px;
+}
+
+#botaoMensagem {
+  margin-left: 25px;
+  margin-top: 15px;
+  border-radius: 10px;
+  font-family: Florence, cursive;
+  font-size: 15px;
+  width: 250px;
+}
+
+#text-ecommerce {
+  margin-left: 45px;
+}
+
+#text-gestao {
+  margin-left: 52px;
+}
+
+#text-redacao {
+  margin-left: 45px;
+}
+
+#text-web {
+  margin-left: 45px;
+}
